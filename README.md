@@ -1,3 +1,2 @@
-# Platzi 
 
-Página hecha desde 0 con hmtl, css, Javascript.
+Link -> (https://jorgecruz19.github.io/PaginaWeb/)
